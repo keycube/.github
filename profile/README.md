@@ -1,8 +1,9 @@
 ## Hi there 👋
 <p align="center">
-  <img src="../keycube.jpg" alt="Keycube" width="600">
+  <a href="https://keycube.github.io." target="_blank">
+    <img src="../keycube.jpg" alt="Keycube" width="600">
+  </a>
 </p>
-
 <!--
 
 **Here are some ideas to get you started:**

@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="../keycube.png" alt="Keycube" width="600">
+  <img src="../close-up-glowing-cube-with-key-it-generative-ai_900396-55306.jpg" alt="Keycube" width="600">
 </p>
 
 <!--

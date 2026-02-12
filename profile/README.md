@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://keycube.github.io." target="_blank">
-    <img src="../keycube.jpg" alt="Keycube" width="600">
+    <img src="../keycube.png" alt="Keycube" width="600">
   </a>
 </p>
 <!--

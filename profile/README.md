@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../keycubee.png" alt="Keycubee" width="300">
+  <img src="../keycubee.png" alt="keycubee" width="300">
 </p>
 
 <!--

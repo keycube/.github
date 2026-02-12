@@ -1,4 +1,7 @@
-![Keycube](keycube.jpg)
+<p align="center">
+  <img src="../keycubee.png" alt="Keycubee" width="300">
+</p>
+
 <!--
 
 **Here are some ideas to get you started:**

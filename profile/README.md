@@ -1,4 +1,4 @@
-![Keycube](https://github.com/keycube/.github/blob/main/keycube.jpg)
+![Keycube](../keycube.jpg)
 <!--
 
 **Here are some ideas to get you started:**

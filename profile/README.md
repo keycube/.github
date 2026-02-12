@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keycube/.github/main/keycubee.png" width="300">
+  <img src="https://github.com/keycube/.github/blob/main/keycubee.png" width="300">
 </p>
 
 

@@ -1,4 +1,3 @@
-![Keycube](../keycube.jpg)
 <!--
 ![Keycube](../keycube.jpg)
 **Here are some ideas to get you started:**

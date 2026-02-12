@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../keycube.png" alt="Keycube" width="600">
-</p>
+![Keycube](https://github.com/keycube/.github/blob/main/keycube.jpg)
 <!--
 
 **Here are some ideas to get you started:**

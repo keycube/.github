@@ -1,6 +1,6 @@
 <p align="center">
   <img src="../keycube.png" alt="Keycube" width="600">
-</p> 
+</p>
 <!--
 
 **Here are some ideas to get you started:**

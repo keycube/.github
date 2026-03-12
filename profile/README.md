@@ -1,4 +1,4 @@
-<p align="center"><a href="https://keycube.github.io."><img src="https://keycube.github.io./keycube.jpeg" alt="Protomaps"/></a></p>
+<p align="center"><a href="https://keycube.github.io."><img src="https://keycube.github.io./keycube.jpeg" alt="Keycube"/></a></p>
 
 **Here are some ideas to get you started:**
 

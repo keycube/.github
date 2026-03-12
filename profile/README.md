@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="keycube-square.jpg" width="100%">
+  <img src="keycube.jpg" width="100%">
 </p>
 # Keycube
 

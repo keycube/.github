@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./keycube-banner.jpg" alt="Keycube banner" width="100%">
+  <img src="keycube-square.jpg" width="100%">
 </p>
-
 # Keycube
 
 An open-source organization building creative, modern and accessible digital experiences.

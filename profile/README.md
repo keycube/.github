@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://keycube.github.io." target="_blank">
-    <img src="../keycube.jpeg" alt="keycube" width="600">
+    <img src="../keycube.jpeg" alt="keycube" width="100%">
   </a>
 </p>
-<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?

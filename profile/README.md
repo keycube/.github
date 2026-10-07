@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://keycube.github.io." target="_blank">
-    <img src="../keycube.jpg" alt="keycube" width="100%">
-  </a>
-</p>
 <h1><b>KEYCUBE</b></h1>
 
 An open-source organization building creative, modern and accessible digital experiences.
